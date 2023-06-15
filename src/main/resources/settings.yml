@@ -1,0 +1,11 @@
+custom-menu-texture: true # Removes borders if marked true
+
+special-items:
+  not-enough-money:
+    material: "PAPER"
+    custom-model-data: 1
+    name: "&c&lNot Enough Money"
+    lore:
+      - "&7"
+      - "&4 * &cYou need &n%amount%&c more money to purchase this!"
+      - "&7"

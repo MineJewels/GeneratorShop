@@ -1,0 +1,19 @@
+shop-menu:
+  title: "&f&l"
+  rows: 6
+  borders:
+    "grey":
+      material: "APPLE"
+      name: "&7"
+      lore: [ ]
+      slots: [ ]
+  generators:
+    "COAL_ORE":
+      slot: 10
+      price: 100
+      item:
+        material: "COAL_ORE"
+        enchanted: true
+        name: "&3&l[!] &bCoal Ore Generator"
+        lore:
+          - "&7 Cool"

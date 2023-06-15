@@ -1,0 +1,7 @@
+name: JewelsShop
+version: ${project.version}
+main: org.minejewels.jewelsshop.JewelsShop
+api-version: 1.19
+depend: [ AbyssLib, Vault, JewelsGens ]
+authors: [ Consciences ]
+description: Custom shop addon to JewelsGens!
